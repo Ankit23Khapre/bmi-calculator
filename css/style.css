@@ -1,0 +1,37 @@
+body{
+  background-color: #b3d9ff;
+  height:100vh;
+}
+
+.logo{
+  height:100px;
+}
+
+.title-container{
+  background-color:rgb(192, 188, 188);
+  padding:10px;
+}
+.img-sizing{
+  background-repeat: no-repeat;
+  background-size: 1800px 900px
+  
+}
+.form-label{
+  font-size: 30px;
+}
+.form-control{
+  border: 1px solid black;
+}
+.btn-effect{
+  box-shadow: 0px 0px 5px black;
+  border-radius: 10px;
+}
+.main-div{
+  box-shadow: 0px 0px 5px black;
+  transition: 0.2s;
+}
+.main-div:hover{
+  box-shadow: 4px 4px 15px black;
+  transition: 0.7s;
+
+}
